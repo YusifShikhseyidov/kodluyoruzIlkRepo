@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Project Photo
 
-![Proje fotosu](ProjeFotosu.png)
+![Proje fotosu](Images/ProjeFotosu.png)
